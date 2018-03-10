@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Clockwork RNN
+Clockwork RNN implementation on Keras (Tensorflow)
 Based off the paper by
 Jan Koutník, Klaus Greff, Faustino Gomez, Jürgen Schmidhuber
 Retrieved from https://arxiv.org/abs/1402.3511
